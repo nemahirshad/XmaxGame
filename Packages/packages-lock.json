@@ -13,7 +13,7 @@
       "hash": "65496378adb9b073798cb9a3834603a831440fc3"
     },
     "com.outrealxr.avatars": {
-      "version": "1.1.7",
+      "version": "1.1.13",
       "depth": 0,
       "source": "registry",
       "dependencies": {
